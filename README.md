@@ -1,16 +1,11 @@
-# Dashboard de Power BI: Reportes por Región, Producto y Vendedor  
+# Dashboards en Power BI
 
-Este dashboard presenta un análisis detallado de las ventas segmentadas por región, producto y vendedor, proporcionando información clave para la toma de decisiones estratégicas.  
+*Curso Inteligencia de Negocios - UTP*
 
-![Dashboard Referencial](imagenes/dashboard.png)  
 
- 
-- [Reporte Final (PDF)](Reporte_Region-Producto-Vendedor.pdf)  
-- [Fuente de Datos (Excel)](Ventas.csv)  
-- [Archivo Power BI (PBIX)](semana-01_Leonardo-Espejo.pbix)  
-
-Explora los datos y obtén insights valiosos para optimizar el rendimiento comercial.  
-
----
-- [Documento Guía (PDF)](guia-semana-01-02.pdf) 
-
+|   Dashboards    | Links |
+|-----------------| ------|
+|   ![Dashboard](semana-01-02/imagenes/dashboard.png)   | [Reporte](semana-01-02) |
+|   ![Dashboard](semana-03-04/imagenes/dashboard.png)   | [Reporte](semana-03-04) |
+|   ![Dashboard](semana-06-07/imagenes/dashboard.png)   | [Reporte](semana-06-07) |
+|   ![Dashboard](semana-08-09/imagenes/dashboard.png)   | [Reporte](semana-08-09) |
