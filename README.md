@@ -2,7 +2,7 @@
 
 Este dashboard presenta un análisis detallado de las ventas segmentadas por región, producto y vendedor, proporcionando información clave para la toma de decisiones estratégicas.  
 
-![Dashboard Referencial](imagenes\dashboard.png)  
+![Dashboard Referencial](imagenes/dashboard.png)  
 
  
 - [Reporte Final (PDF)](Reporte_Region-Producto-Vendedor.pdf)  
