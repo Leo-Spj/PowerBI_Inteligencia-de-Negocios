@@ -7,6 +7,7 @@ Este dashboard presenta un análisis detallado de las ventas segmentadas por reg
  
 - [Reporte Final (PDF)](Reporte_Region-Producto-Vendedor.pdf)  
 - [Fuente de Datos (Excel)](Ventas.csv)  
+- [Archivo Power BI (PBIX)](semana-01_Leonardo-Espejo.pbix)  
 
 Explora los datos y obtén insights valiosos para optimizar el rendimiento comercial.  
 
